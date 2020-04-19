@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sribysana.github.io/monistersRolodex/static/css/main.2e2254d4.chunk.css",
+    "main.js": "/sribysana.github.io/monistersRolodex/static/js/main.b29d9fed.chunk.js",
+    "main.js.map": "/sribysana.github.io/monistersRolodex/static/js/main.b29d9fed.chunk.js.map",
+    "runtime-main.js": "/sribysana.github.io/monistersRolodex/static/js/runtime-main.475a03ff.js",
+    "runtime-main.js.map": "/sribysana.github.io/monistersRolodex/static/js/runtime-main.475a03ff.js.map",
+    "static/js/2.7db90bec.chunk.js": "/sribysana.github.io/monistersRolodex/static/js/2.7db90bec.chunk.js",
+    "static/js/2.7db90bec.chunk.js.map": "/sribysana.github.io/monistersRolodex/static/js/2.7db90bec.chunk.js.map",
+    "index.html": "/sribysana.github.io/monistersRolodex/index.html",
+    "precache-manifest.5b8c9e7781cc62781efc7cbd35cb697c.js": "/sribysana.github.io/monistersRolodex/precache-manifest.5b8c9e7781cc62781efc7cbd35cb697c.js",
+    "service-worker.js": "/sribysana.github.io/monistersRolodex/service-worker.js",
+    "static/css/main.2e2254d4.chunk.css.map": "/sribysana.github.io/monistersRolodex/static/css/main.2e2254d4.chunk.css.map",
+    "static/js/2.7db90bec.chunk.js.LICENSE": "/sribysana.github.io/monistersRolodex/static/js/2.7db90bec.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.475a03ff.js",
+    "static/js/2.7db90bec.chunk.js",
+    "static/css/main.2e2254d4.chunk.css",
+    "static/js/main.b29d9fed.chunk.js"
+  ]
+}
